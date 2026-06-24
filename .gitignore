@@ -1,2 +1,5 @@
 .venv/
 video.gif
+__pycache__/
+cartpole_dqn.pth
+flappy_dqn.pth
